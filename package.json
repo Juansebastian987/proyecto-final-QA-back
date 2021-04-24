@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-final-qa-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juansebastian987/proyecto-final-QA-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juansebastian987/proyecto-final-QA-back/issues"
+  },
+  "homepage": "https://github.com/Juansebastian987/proyecto-final-QA-back#readme"
+}
