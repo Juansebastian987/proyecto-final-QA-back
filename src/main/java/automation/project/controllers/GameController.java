@@ -1,7 +1,7 @@
-package automation.practice.controllers;
+package automation.project.controllers;
 
-import automation.practice.controllers.dto.GameDto;
-import automation.practice.domain.Game;
+import automation.project.controllers.dto.GameDto;
+import automation.project.domain.Game;
 
 import java.util.HashMap;
 import java.util.List;

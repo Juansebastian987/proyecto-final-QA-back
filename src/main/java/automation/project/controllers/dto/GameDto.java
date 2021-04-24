@@ -1,4 +1,4 @@
-package automation.practice.controllers.dto;
+package automation.project.controllers.dto;
 
 import lombok.Getter;
 import lombok.Setter;

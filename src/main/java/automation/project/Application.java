@@ -1,4 +1,4 @@
-package automation.practice;
+package automation.project;
 
 import java.util.Arrays;
 

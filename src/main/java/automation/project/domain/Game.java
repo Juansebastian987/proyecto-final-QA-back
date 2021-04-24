@@ -1,4 +1,4 @@
-package automation.practice.domain;
+package automation.project.domain;
 
 import lombok.Getter;
 import lombok.Setter;
