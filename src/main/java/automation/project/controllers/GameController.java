@@ -19,15 +19,15 @@ public class GameController {
   public GameController() {
 	  games = new HashMap<String, Game>() {{
       put(UUID.randomUUID().toString(), new Game("Call of Duty: Black Ops Cold War", "Activision - Mohammad Alavi -Treyarch", 2020, "Belico", "Xbox - PlayStation5 - PC"));
-      put(UUID.randomUUID().toString(), new Game("Grand Theft Auto V", "Rockstar Games - Rockstar North",2013, "Acción-aventura - Mundo abierto", "Xbox - PlayStation5 - PC"));
-      put(UUID.randomUUID().toString(), new Game("Fortnite", "Epic Games - People Can Fly",2017, "Battle royale - Videojuego de disparos en tercera persona - Videojuego de rol de acción - Videojuego sandbox", "Xbox - PlayStation5 - PC"));
+      put(UUID.randomUUID().toString(), new Game("Grand Theft Auto V", "Rockstar Games - Rockstar North",2013, "Accin-aventura - Mundo abierto", "Xbox - PlayStation5 - PC"));
+      put(UUID.randomUUID().toString(), new Game("Fortnite", "Epic Games - People Can Fly",2017, "Battle royale - Videojuego de disparos en tercera persona - Videojuego de rol de accin - Videojuego sandbox", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Minecraft", "Mojang Studios - Other Ocean Interactive - 4J Studios - Xbox Game Studios", 2009, "Sandbox", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Roblox", "Roblox Corporation", 2012, "Sandbox", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Among Us", "Innersloth", 2018, "Belico", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Garena Free Fire", "111dots Studio", 2017, "Battle royale - Supervivencia - Shooter", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Rocket League", "Psyonix - Panic Button Games", 2015, "Deportes", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Apex Legends", "Respawn Entertainment - Panic Button Games", 2019, "Battle Royale", "Xbox - PlayStation5 - PC"));
-      put(UUID.randomUUID().toString(), new Game("Brawl Stars", "Supercell", 2017, "Videojuego de acción", "Xbox - PlayStation5 - PC"));
+      put(UUID.randomUUID().toString(), new Game("Brawl Stars", "Supercell", 2017, "Videojuego de accin", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Fall Guys: Ultimate Knockout", "Mediatonic", 2020, "Battle Royale", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Battlefield 6", "Electronic Arts", 2021, "Belico", "Xbox - PlayStation5 - PC"));
       put(UUID.randomUUID().toString(), new Game("Star Wars: Battlefront", "EA Digital Illusions CE - Criterion Games", 2015, "Belico", "Xbox - PlayStation5 - PC"));
